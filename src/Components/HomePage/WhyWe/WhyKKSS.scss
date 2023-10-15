@@ -1,0 +1,35 @@
+.WhyKKSS {
+  background-color: aliceblue;
+  margin-top: -30px;
+  padding-top: 40px;
+  .KKSSRow {
+    display: flex;
+    // margin: -10%;
+    margin-top: 7px;
+    padding: -10;
+    padding: 2rem;
+    background-color: azure;
+    .KKSSCard {
+      padding: 2rem;
+      border: none;
+      text-align: justify;
+      width: auto;
+      height: auto;
+      margin: 20px;
+      margin-bottom: 10px;
+      background-color: Black;
+
+      // background-image: repeating-linear-gradient(skyblue,yellow );
+      .KKSSCardTitle {
+        text-align: left;
+        font-size: 30px;
+        color: greenyellow;
+        opacity: 0.75;
+      }
+      .KKSSCardBody {
+        text-align: left; 
+        color: white;
+      }
+    }
+  }
+}

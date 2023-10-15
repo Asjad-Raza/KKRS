@@ -1,0 +1,24 @@
+.Footer {
+  .FooterRow {
+    position: sticky;
+    background-color: black;
+    height: auto;
+    h3 {
+      color: greenyellow;
+    }
+    .FooterCol {
+      color: white;
+      margin: 1rem;
+      .FooterImage {
+        width: 7rem;
+        height: 7rem;
+        .Paragraph {
+          text-align: justify;
+        }
+      }
+    }
+    #Footer1 {
+      margin-left: 20px;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.HomePageAbout {
+  background: #f0f0f0 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  margin: 1rem;
+
+  .Title {
+    animation: fadeIn 5s;
+    color: rgb(200, 200, 54);
+    font-size: 2.5rem;
+  }
+  .Text {
+    animation: fadeIn 20s;
+    font-size: 1.5rem;
+    color: black;
+  }
+}
+

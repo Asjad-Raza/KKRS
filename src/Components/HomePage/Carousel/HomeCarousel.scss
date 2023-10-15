@@ -1,0 +1,28 @@
+
+  .Carousel {
+    background-color: whitesmoke;
+    align-items: center;
+    height: 500px;
+    width: 100%;
+
+    .CarouselImage {
+      background: aqua;
+      width: 100%;
+      height: 500px;
+    }
+
+    p {
+      color: rgb(200, 200, 54);
+      font-size: xx-large;
+    }
+    h3 {
+      font-size: xxx-large;
+      color: rgb(218, 206, 40);
+    }
+  }
+  .CarouselCaptions {
+    h3 {
+      color: greenyellow;
+    }
+  }
+

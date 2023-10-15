@@ -1,0 +1,26 @@
+.Link {
+  text-decoration: none;
+}
+.Container {
+  background-color: rgb(196, 236, 36);
+  margin-top: -100px;
+  padding-top: 100px;
+
+  .Card {
+    width: 25rem auto;
+    height: "auto";
+    margin: "auto";
+    margin-bottom: "1rem";
+    text-align: justify;
+    .Title{
+        text-align: center;
+    }
+  }
+  .Card:hover {
+    background-color: aquamarine;
+  }
+  .Button {
+    margin: 1rem;
+    text-align: center;
+  }
+}
